@@ -1,5 +1,5 @@
-# movieflix-seed
-seed for the Full-Stack training project: movieflix
+# movieflix
+A Netflix-like application which allows an user to access digital content catalog such as movies, tv series etc
 
 ## directory structure:
 
